@@ -16,6 +16,10 @@ STEP 4
 Save the data to the file
 
 CODE
+NAME: DHIVYAPRIYA. R
+
+REG.NO: 212222230032
+
 import pandas as pd
 
 df=pd.read_csv('/content/Data_to_Transform.csv')
