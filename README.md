@@ -90,6 +90,7 @@ df['Moderate Negative Skew']=pd.DataFrame(pt.fit_transform(df[['Moderate Negativ
 sm.qqplot(df['Moderate Negative Skew'],fit=True,line='45')
 
 plt.show()
+
 OUTPUT
 ![Screenshot from 2023-05-08 21-35-13](https://user-images.githubusercontent.com/119477552/236875920-6f257433-a345-48e7-951b-9ac4e2ea1a75.png)
 ![Screenshot from 2023-05-08 21-39-12](https://user-images.githubusercontent.com/119477552/236875990-ae5762da-6d0d-4925-917d-8051340f14c0.png)
