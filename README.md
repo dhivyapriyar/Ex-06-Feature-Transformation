@@ -106,3 +106,6 @@ OUTPUT
 ![Screenshot from 2023-05-08 21-41-14](https://user-images.githubusercontent.com/119477552/236877070-fe953bc0-26df-4eaa-8b68-e8b1478b4012.png)
 ![Screenshot from 2023-05-08 21-41-45](https://user-images.githubusercontent.com/119477552/236877115-35b3b95e-504a-42ed-8535-4b304d9903cd.png)
 
+RESULT
+
+Thus the Feature Transformation process is performed.
